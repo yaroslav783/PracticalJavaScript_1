@@ -5,7 +5,7 @@ const personalMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    private: true
+    private: false
 };
 
 const a = window.rompt('Один из последних просмотренных филмов?',''),
